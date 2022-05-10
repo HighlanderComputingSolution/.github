@@ -19,7 +19,7 @@ We contribute to the tools 🔧 we rely on to build and run GitHub, while also m
 
 ### 👓 Appendix
 
-See what's next on our [public roadmap](https://github.com/github/roadmap) ✨ and [let us know](https://github.com/github/feedback) if you have any suggestions 🙇‍♂️. Oh, and by the way, we are always hiring talented, passionate people to [join our team](https://github.com/about/careers) 🙌.
+See what's happend on our [news](https://highlanderuk.com/news/) ✨ and [let us know](https://twitter.com/Highlandercs) if you have any suggestions 🙇‍♂️. Oh, and by the way, we are always hiring talented, passionate people to [join our team](https://www.linkedin.com/company/highlanderuk/) 🙌.
 
 <details> 
 	<summary>"Tell me more, I can't get enough!"</summary>
